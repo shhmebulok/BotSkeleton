@@ -30,7 +30,7 @@ class User(BaseModel):
 
 
 # get_user function
-def get_user(data: str | int) -> User | None:
+def get_user(data) -> User | None:
     """:param data: PK or username of User"""
     try:
         try:

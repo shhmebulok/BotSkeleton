@@ -18,3 +18,6 @@ TZ = pytz.timezone('Europe/Moscow')
 
 # bot token
 TOKEN = '7571624994:AAHfRL9M6oTelDEjwV_sD0TSUMRrSYllFC0'
+
+# admins
+ADMIN_IDS = []
